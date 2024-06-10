@@ -1,0 +1,23 @@
+{
+  "chainId": "bitcanna-dev-6",
+  "name": "BitCanna",
+  "desc": "Harnessing the power of blockchain to create equal opportunities for cannabis-related industries ",
+  "slot": "bitcanna",
+  "mode": "mainnet",
+  "apiURL": "https://lcd-devnet-6.bitcanna.io/",
+  "rpcURL": "https://rpc-devnet-6.bitcanna.io/",
+  "contractAddress":
+    "bcna1upp6z6ygqxwvres4w3vy7qa2q9vr3rlp3w2w9glxgeylux3ff8fsqdmkwe",
+  "coinLookup": {
+    "viewDenom": "BCNA",
+    "chainDenom": "ubcna",
+    "addressPrefix": "bcna",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.svg",
+  },
+  "explorerUrl": "https://www.mintscan.io/bitcanna/txs/",
+  "coingeckoId": "bitcanna",
+  "feeMultiplier": 1.9,
+  "gasPrice": 0.0025,
+  "color": "#33ffc9",
+  "colorChart": ["#b3ffeb", "#33ffc9", "#00b383", "#004d38"],
+}
