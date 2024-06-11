@@ -19,5 +19,5 @@
   "feeMultiplier": 1.9,
   "gasPrice": 0.0025,
   "color": "#33ffc9",
-  "colorChart": ["#b3ffeb", "#33ffc9", "#00b383", "#004d38"],
+  "colorChart": ["#b3ffeb", "#33ffc9", "#00b383", "#004d38"]
 }
