@@ -7,7 +7,7 @@
   "apiURL": "https://lcd-devnet-6.bitcanna.io/",
   "rpcURL": "https://rpc-devnet-6.bitcanna.io/",
   "contractAddress":
-    "bcna1q6vmqprwvay5p3l0d763v50ufunt7fwfnfwp85wne5xan4meeqpstnqwvg",
+    "bcna1tdxl4uv6fg3ke52n0umhv96648ttmwtg0u6uujmv5cuvjktg6qvq48a40w" 
   "coinLookup": {
     "viewDenom": "BCNA",
     "chainDenom": "ubcna",
